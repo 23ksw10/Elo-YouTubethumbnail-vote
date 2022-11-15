@@ -2,4 +2,4 @@
 
 
 
-Django를 사용한 web application입니다
+Django를 사용한 간단한 web application입니다
